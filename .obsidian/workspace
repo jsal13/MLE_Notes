@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "221507b458f56f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9714b7ee58682e09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kubernetes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a9524c9abb67bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b24aad166dabb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b916d3908f243553",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "067f01ec560bbde5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "592336a6bb4a73e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3cc6c9d0781740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806b30703abff191",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kubernetes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe4d5af08b8c255a",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9714b7ee58682e09",
+  "lastOpenFiles": [
+    "Kubernetes.md",
+    "Questions.md",
+    "MiniKube.md",
+    "[minikube.md"
+  ]
+}
