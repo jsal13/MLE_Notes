@@ -23,16 +23,18 @@ When you deploy to K8s:
 - End users may also interact with the K8s API.
 
 ### Deployments
-- Must create K8s **Deployment Configuration**.
+- Must create K8s [[Deployment]] Configuration.
 	- How to create + update instances of the app.
 
 After this, the Control Plane schedules the app instances in the Deployment to run on the nodes in the cluster.
 
 Once the instances are created, a **K8s Deployment Controller** continuously monitors the instances.  The K8s Deployment Controller tries to replace any broken instances with other nodes in the cluster --- an attempt at self-healing.
 
+A [[ReplicaSet]] ensures a specified number of replicas for a pod are running at all times.
+
 By default, _pods cannot talk to the outside world_ --- they can only communicate on their own internal, private network.  We can interact with them using kubectl, for example.  Note that the API server automatically creates an endpoint for each pod based on its name.  We can get these with a kubectl command as well.
 
-**Pods** in K8s are abstractions that represent a group of app containers (like docker!) and some shared resources such as:
+[[Pods]] in K8s are abstractions that represent a group of app containers (like docker!) and some shared resources such as:
 - Shared storage (volumes)
 - Networking (unique cluster IP)
 - Info about how to run each container (container image version, ports, etc.) 

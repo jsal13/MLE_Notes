@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kubernetes.md",
+            "file": "Kube-Proxy.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "592336a6bb4a73e1",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Kube-Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +82,14 @@
           },
           {
             "id": "fe4d5af08b8c255a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcebf043864637e8",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -98,9 +105,15 @@
   },
   "active": "9714b7ee58682e09",
   "lastOpenFiles": [
+    "Kube-Proxy.md",
+    "Architecture/Kubelete.md",
     "Kubernetes.md",
-    "MiniKube.md",
-    "Questions.md",
-    "[minikube.md"
+    "Organization/Namespaces.md",
+    "Organization/Selectors.md",
+    "Organization/Labels.md",
+    "Architecture/Service.md",
+    "Architecture/Job.md",
+    "Architecture/DaemonSets.md",
+    "Architecture/Deployment.md"
   ]
 }
