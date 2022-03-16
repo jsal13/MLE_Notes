@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Questions.md",
+            "file": "Discovery_Days/Kubeflow/Kubeflow.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "592336a6bb4a73e1",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "Discovery_Days/Kubeflow/Kubeflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
   },
   "active": "9714b7ee58682e09",
   "lastOpenFiles": [
+    "Discovery_Days/Kubeflow/Kubeflow.md",
+    "Examples.md",
+    "This example.md",
     "Questions.md",
     "Kubernetes/Kube-Proxy.md",
     "Kubernetes/Kubernetes.md",
     "Kubernetes/Architecture/Kubelete.md",
     "Kubernetes/Organization/Namespaces.md",
     "Kubernetes/Organization/Selectors.md",
-    "Kubernetes/Organization/Labels.md",
-    "Kubernetes/Architecture/Service.md",
-    "Kubernetes/Architecture/Job.md",
-    "Kubernetes/Architecture/DaemonSets.md"
+    "Kubernetes/Organization/Labels.md"
   ]
 }

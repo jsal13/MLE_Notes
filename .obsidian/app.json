@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "promptDelete": false
 }
