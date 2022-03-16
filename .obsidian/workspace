@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kube-Proxy.md",
+            "file": "Questions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kube-Proxy.md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "9714b7ee58682e09",
   "lastOpenFiles": [
-    "Kube-Proxy.md",
-    "Architecture/Kubelete.md",
-    "Kubernetes.md",
-    "Organization/Namespaces.md",
-    "Organization/Selectors.md",
-    "Organization/Labels.md",
-    "Architecture/Service.md",
-    "Architecture/Job.md",
-    "Architecture/DaemonSets.md",
-    "Architecture/Deployment.md"
+    "Questions.md",
+    "Kubernetes/Kube-Proxy.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Architecture/Kubelete.md",
+    "Kubernetes/Organization/Namespaces.md",
+    "Kubernetes/Organization/Selectors.md",
+    "Kubernetes/Organization/Labels.md",
+    "Kubernetes/Architecture/Service.md",
+    "Kubernetes/Architecture/Job.md",
+    "Kubernetes/Architecture/DaemonSets.md"
   ]
 }
